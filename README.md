@@ -3,7 +3,8 @@
 # 客户不仅能购买机场订阅还可以在平台购买私有的服务器或者住宅ip，用来做外贸或者tiktok直播等。
 # 网络延迟在 30 毫秒以内，需要加速优化的也可以交流，有效果图。
 # 服务器端和客户端都支持多语言。国际化出海无压力。ads买量及新媒体推广欢迎交流。
-**tg ：@nelson0822**
+**tg ：@qudacloud**
+[@qudacloud](https://t.me/qudacloud)  /  [@tg频道](https://t.me/qudavp)
 
 以下是部分截图，详情请看项目中的截图：
 ![截图](/windows/20240205152935.png "截图")
@@ -34,6 +35,6 @@
 ![截图](/admin/20240205165549.png "截图")
 ![截图](/admin/20240205165549.png "截图")
 
-[@nelson0822](https://t.me/nelson0822)
+[@qudacloud](https://t.me/qudacloud) / [@tg频道 https://t.me/qudavp](https://t.me/qudavp)
 
-**咨询讨论 请联系 telegram ：@nelson0822**
+**咨询讨论 请联系 telegram ：@qudacloud**
