@@ -4,7 +4,7 @@
 # 网络延迟在 30 毫秒以内，需要加速优化的也可以交流，有效果图。
 # 服务器端和客户端都支持多语言。国际化出海无压力。ads买量及新媒体推广欢迎交流。
 **tg ：@qudacloud**
-[@qudacloud](https://t.me/qudacloud)  /  [@tg频道](https://t.me/qudavp)
+[@qudacloud](https://t.me/qudacloud)  /  [@tg频道](https://t.me/vpn_update)
 
 以下是部分截图，详情请看项目中的截图：
 ![截图](/windows/20240205152935.png "截图")
@@ -35,6 +35,6 @@
 ![截图](/admin/20240205165549.png "截图")
 ![截图](/admin/20240205165549.png "截图")
 
-[@qudacloud](https://t.me/qudacloud) / [@tg频道 https://t.me/qudavp](https://t.me/qudavp)
+[@qudacloud](https://t.me/qudacloud) / [@tg频道 https://t.me/vpn_update](https://t.me/vpn_update)
 
 **咨询讨论 请联系 telegram ：@qudacloud**
